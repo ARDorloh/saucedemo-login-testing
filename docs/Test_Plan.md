@@ -4,7 +4,7 @@
 
 **Project Name:** SauceDemo E-Commerce Testing<br>
 **Feature to Test:** Login Functionality<br>
-**Tester:** [ARDorloh]<br>
+**Tester:** [ARDorloh](https://github.com/ARDorloh)<br>
 **Test Start Date:** [250208]<br>
 **Test End Date:** [250208]
 
