@@ -1,4 +1,4 @@
-**Test Plan for SauceDemo Login Functionality**
+**Test Plan for Swag Labs ([SauceDemo](https://www.saucedemo.com/)) Login Functionality**
 
 **1. Introduction**
 
