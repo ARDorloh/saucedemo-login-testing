@@ -23,7 +23,7 @@ UI validation of login page<br>
 Error message verification<br>
 Security checks (password masking, session handling)
 
-**Excluded:**
+**Excluded:**<br>
 Performance testing<br>
 API testing<br>
 Database validation
@@ -44,10 +44,8 @@ Login attempt with an unregistered username<br>
 Login attempt with empty username/password fields<br>
 Login with a locked-out user
 
-**6. Defect Reporting
-**
-Defects will be documented in an Excel sheet.
-
+**6. Defect Reporting**<br>
+Defects will be documented in an Excel sheet.<br>
 Each bug will have a unique ID, description, steps to reproduce, severity, and expected vs actual results.
 
 **7. Test Exit Criteria**
