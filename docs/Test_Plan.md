@@ -3,13 +3,9 @@
 **1. Introduction**
 
 **Project Name:** SauceDemo E-Commerce Testing
-
 **Feature to Test:** Login Functionality
-
 **Tester:** [ARDorloh]
-
 **Test Start Date:** [250208]
-
 **Test End Date:** [250208]
 
 **2. Objective**
