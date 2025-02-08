@@ -2,7 +2,11 @@
 
 **1. Introduction**
 
-Project Name: SauceDemo E-Commerce TestingFeature to Test: Login FunctionalityTester: [Your Name]Test Start Date: [Date]Test End Date: [Date]
+**Project Name:** SauceDemo E-Commerce Testing
+**Feature to Test:** Login Functionality
+**Tester:** [ARDorloh]
+**Test Start Date:** [250208]
+**Test End Date:** [250208]
 
 **2. Objective**
 
@@ -24,8 +28,8 @@ Error message verification
 
 Security checks (password masking, session handling)
 
-Excluded:
-
+**Excluded:
+**
 Performance testing
 
 API testing
