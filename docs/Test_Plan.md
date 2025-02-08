@@ -23,8 +23,7 @@ UI validation of login page<br>
 Error message verification<br>
 Security checks (password masking, session handling)
 
-**Excluded:
-**
+**Excluded:**
 Performance testing<br>
 API testing<br>
 Database validation
