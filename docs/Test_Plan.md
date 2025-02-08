@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-**Project Name:** SauceDemo E-Commerce Testing<br>
+**Project Name:** Swag Labs E-Commerce Login Testing<br>
 **Feature to Test:** Login Functionality<br>
 **Tester:** [ARDorloh](https://github.com/ARDorloh)<br>
 **Test Start Date:** [250208]<br>
