@@ -45,6 +45,7 @@ Login attempt with empty username/password fields<br>
 Login with a locked-out user
 
 **6. Defect Reporting**<br>
+
 Defects will be documented in an Excel sheet.<br>
 Each bug will have a unique ID, description, steps to reproduce, severity, and expected vs actual results.
 
