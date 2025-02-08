@@ -14,8 +14,7 @@ The purpose of this test is to validate the login functionality of the SauceDemo
 
 **3. Scope**
 
-**Included:**
-
+**Included:**<br>
 User login with valid credentials<br>
 Incorrect login attempts (wrong password, non-existent user)<br>
 Locked-out user scenario<br>
