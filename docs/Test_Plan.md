@@ -2,10 +2,10 @@
 
 **1. Introduction**
 
-**Project Name:** SauceDemo E-Commerce Testing
-**Feature to Test:** Login Functionality
-**Tester:** [ARDorloh]
-**Test Start Date:** [250208]
+**Project Name:** SauceDemo E-Commerce Testing<br>
+**Feature to Test:** Login Functionality<br>
+**Tester:** [ARDorloh]<br>
+**Test Start Date:** [250208]<br>
 **Test End Date:** [250208]
 
 **2. Objective**
