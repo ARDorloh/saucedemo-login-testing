@@ -29,7 +29,7 @@ Database validation
 
 **4. Test Approach**
 
-**Manual Testing:** All test cases will be executed manually without automation.<br>
+**Funtional Testing (Manual):** All test cases will be executed manually without automation.<br>
 **Test Environments:** Web application on Google Chrome and Mozilla Firefox.<br>
 **Test Data:** Predefined usernames and passwords from SauceDemo.<br>
 
